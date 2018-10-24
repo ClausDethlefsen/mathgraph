@@ -1,5 +1,5 @@
 Package: mathgraph
-Version: 0.9-13
+Version: 0.9-14
 Date: 2018-10-23
 Title: Directed and Undirected Graphs
 Author: Original S code by Patrick J. Burns. Ported to R by Nick
@@ -7,6 +7,6 @@ Author: Original S code by Patrick J. Burns. Ported to R by Nick
 Description: Simple tools for constructing and manipulating objects of
         class mathgraph from the book "S Poetry", available at
         <http://www.burns-stat.com/pages/spoetry.html>.
-License: file LICENSE
+License: GPL (>= 2)
 Maintainer: Claus Dethlefsen <aas.claus.dethlefsen@gmail.com>
 Depends: R (>= 2.1.1)
